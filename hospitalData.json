@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Mission Hospital",
+    "hospital_location": "Anchal",
+    "patient_count": 100
+  },
+  {
+    "id": 2,
+    "name": "KIMS",
+    "hospital_location": "Trivandrum",
+    "patient_count": 500
+  },
+  {
+    "id": 3
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5
+  },
+  {
+    "id": 6
+  },
+  {
+    "id": 7
+  }
+]
